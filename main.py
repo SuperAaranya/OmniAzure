@@ -2,6 +2,8 @@ from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, Q
 from PySide6.QtCore import Qt
 import os, subprocess, sys, webbrowser
 
+# WOW THIS IS SOME BIG CLASS DOWN HERE
+
 class OmniAzure(QWidget):
     def __init__(self):
         super().__init__()
