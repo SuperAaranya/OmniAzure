@@ -1,7 +1,6 @@
 # OmniAzure
 
 **NOTICE:**
-
 OmniAzure is in beta and is subject to change.
 
 OmniAzure is a cross-platform desktop assistant built with Python and PySide6.  
